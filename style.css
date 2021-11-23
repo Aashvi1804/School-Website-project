@@ -1,0 +1,70 @@
+body {
+    background-color: #caf9fa;
+    text-align: center;
+}
+
+#marqueestyle {
+    font-family: 'Style Script', cursive;
+    font-size: 35px;
+    font-style: bold;
+    color: white;
+    background-color: black;
+}
+
+#school {
+  border-radius:80%;
+  border:solid;
+  border-color:blue;
+  border-width:10px;
+  padding:10px;
+  width:450px;
+}
+
+#contact {
+    background-color: pink
+}
+
+h2 {
+   font-family: 'Style Script', cursive;
+    font-size: 35px;
+    font-style: bold;
+    color: white;
+    background-color: black; 
+}
+
+h3 {
+    font-family:Arial;
+    font-size: 30px;
+    font-style: italic;
+    color:purple;
+}
+
+h4 {
+    font-family:Comic Sans MS;
+    font-size: 30px;
+    
+    color:indigo;  
+}
+
+
+#phone {
+   font-family:monospace;
+   font-size: 30px;
+   text-decoration:  underline;
+    color:crimson; 
+}
+
+#insta {
+   font-family:monospace;
+    font-size: 30px;
+    text-decoration:  underline;
+    color:crimson; 
+    
+}
+
+#mail {
+  font-family:monospace;
+    font-size: 30px;
+    text-decoration:  underline;
+    color:crimson;  
+}
